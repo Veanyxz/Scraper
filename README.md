@@ -1,4 +1,5 @@
-# Scrappe
-Pake doang gak fork+star
+# Kumpulan Scrape
+
+Silahkan Dipakai...
 
 
